@@ -1,0 +1,10 @@
+C:\Users\Havlas\source\repos\DnD 0.3\DnD 0.3\bin\Debug\DnD 0.3.exe.config
+C:\Users\Havlas\source\repos\DnD 0.3\DnD 0.3\bin\Debug\DnD 0.3.exe
+C:\Users\Havlas\source\repos\DnD 0.3\DnD 0.3\bin\Debug\DnD 0.3.pdb
+C:\Users\Havlas\source\repos\DnD 0.3\DnD 0.3\obj\Debug\DnD 0.3.csprojAssemblyReference.cache
+C:\Users\Havlas\source\repos\DnD 0.3\DnD 0.3\obj\Debug\DnD_0._3.Form1.resources
+C:\Users\Havlas\source\repos\DnD 0.3\DnD 0.3\obj\Debug\DnD_0._3.Properties.Resources.resources
+C:\Users\Havlas\source\repos\DnD 0.3\DnD 0.3\obj\Debug\DnD 0.3.csproj.GenerateResource.cache
+C:\Users\Havlas\source\repos\DnD 0.3\DnD 0.3\obj\Debug\DnD 0.3.csproj.CoreCompileInputs.cache
+C:\Users\Havlas\source\repos\DnD 0.3\DnD 0.3\obj\Debug\DnD 0.3.exe
+C:\Users\Havlas\source\repos\DnD 0.3\DnD 0.3\obj\Debug\DnD 0.3.pdb
